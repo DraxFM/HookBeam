@@ -16,9 +16,9 @@ HookBeam is a terminal based program written in Python to interact with Discord 
 
 - Simple Message Spammer :sparkles:
 - Advanced Message Spammer :round_pushpin:
-- Silent status checking :key:
+- Silent status checking :syringe:
 - Webhook Renamer :key:
-- Webhook Deleter :syringe:
+- Webhook Deleter :bomb:
 - More to be added! :heavy_plus_sign:
 - CHANGE EMOJIS
 
