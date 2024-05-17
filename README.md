@@ -1,4 +1,4 @@
-# HookBeam v1
+# HookBeam v1.0.0
 
 HookBeam is a terminal based program written in Python to "tinker around" with Discord Webhooks.
 
@@ -14,13 +14,13 @@ HookBeam is a terminal based program written in Python to "tinker around" with D
 
 ## <a id="features"></a> :100: - Features
 
-- Simple Message Spammer :sparkles:
-- Advanced Message Spammer :round_pushpin:
+- Simple Message Spammer :incoming_envelope:
+- Advanced Message Spammer :mailbox_with_mail:
 - Silent status checking :syringe:
-- Webhook Renamer :key:
+- Webhook Renamer :pencil2:
 - Webhook Deleter :bomb:
+- Webhook Information Fetcher :key:
 - More to be added! :heavy_plus_sign:
-- CHANGE EMOJIS
 
 ---
 
