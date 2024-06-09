@@ -11,11 +11,13 @@ Compatible with Windows 10/11, untested on MacOS/Linux.
 - [:white_check_mark: - Requirements](#requirements)
 - [:hammer: - Installing](#installing)
 - [:toolbox:  - Usage](#usage)
+- [Modes](#modes)
 - [:wave: - Authors](#authors)
 - [:exclamation: - License](#license)
 
 ## <a id="features"></a> :100: - Features
 
+- Mode Selection
 - Simple Message Spammer :incoming_envelope:
 - Advanced Message Spammer :mailbox_with_mail:
 - Silent status checking :syringe:
@@ -48,7 +50,7 @@ Compatible with Windows 10/11, untested on MacOS/Linux.
 
 1. Get any working Discord Webhook URL
 2. Open **HookBeam** and select what you want to do
-3. Either choose Single Use or log into the Webhook (see [Modes](#modes) for more)
+3. Either choose Single Use or Log into the Webhook (see [Modes](#modes) for more info)
 4. Follow the instructions
 5. The program will do the rest
 
