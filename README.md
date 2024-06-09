@@ -10,14 +10,14 @@ Compatible with Windows 10/11, untested on MacOS/Linux.
 - [:100: - Features](#features)
 - [:white_check_mark: - Requirements](#requirements)
 - [:hammer: - Installing](#installing)
-- [:toolbox:  - Usage](#usage)
-- [Modes](#modes)
+- [:toolbox: - Usage](#usage)
+- [:link: - Modes](#modes)
 - [:wave: - Authors](#authors)
 - [:exclamation: - License](#license)
 
 ## <a id="features"></a> :100: - Features
 
-- Mode Selection
+- Mode Selection :link:
 - Simple Message Spammer :incoming_envelope:
 - Advanced Message Spammer :mailbox_with_mail:
 - Silent status checking :syringe:
@@ -56,7 +56,7 @@ Compatible with Windows 10/11, untested on MacOS/Linux.
 
 ---
 
-### <a id="modes"></a> Modes
+### <a id="modes"></a> :link: - Modes
 #### 1. Single-Use Functions
 This will make HookBeam ask for your Webhook URL over and over again. This can be useful when working with multiple Webhooks.
 
