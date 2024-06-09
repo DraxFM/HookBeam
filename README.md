@@ -1,4 +1,4 @@
-# HookBeam v1.0.3
+# HookBeam v1.0.4
 
 HookBeam is a terminal based program written in Python to "tinker around" with Discord Webhooks.
 
@@ -48,8 +48,21 @@ Compatible with Windows 10/11, untested on MacOS/Linux.
 
 1. Get any working Discord Webhook URL
 2. Open **HookBeam** and select what you want to do
-3. Follow the instructions
-4. The program will do the rest
+3. Either choose Single Use or log into the Webhook (see [Modes](#modes) for more)
+4. Follow the instructions
+5. The program will do the rest
+
+---
+
+### <a id="modes"></a> Modes
+#### 1. Single-Use Functions
+This will make HookBeam ask for your Webhook URL over and over again. This can be useful when working with multiple Webhooks.
+
+---
+
+#### 2. Log into Webhook
+This will prevent HookBeam from asking for your Webhook URL multiple times but use the one you provided at the very beginning. This is very useful when only working with one Webhook as it spares a lot of time.
+
 
 ## <a id="authors"></a> :wave: - Authors
 
