@@ -31,7 +31,7 @@ Compatible with Windows 10/11, untested on MacOS/Linux.
 ### <a id="requirements"></a> :white_check_mark: - Requirements
 
 * Newest [Python](https://www.python.org) version (Version I use: [here](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe))
-* The latest release of [HookBeam](https://github.com/DraxFM/HookBeam/releases/download/HookBeam/HookBeam.zip)
+* The latest release of [HookBeam](https://github.com/DraxFM/HookBeam/releases/latest/download/HookBeam.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Compatible with Windows 10/11, untested on MacOS/Linux.
 
 1. Install [Python](https://www.python.org) (Version I use: [here](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe))
 2. Tick "**Add python.exe to PATH**" in the Python Installer Setup!
-3. Install the latest release of [HookBeam](https://github.com/DraxFM/HookBeam/releases/download/HookBeam/HookBeam.zip)
+3. Install the latest release of [HookBeam](https://github.com/DraxFM/HookBeam/releases/latest/download/HookBeam.zip)
 4. Extract the .zip file in the desired directory.
 5. Run the **HookBeam.py** file.
 6. Enjoy!
