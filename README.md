@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This product was merely made for educational purposes only. Using this product for malicious intent is not condoned!
+> This product is intended solely for educational purposes. Any malicious use is strictly prohibited!
 
 # HookBeam v1.0.7
 
